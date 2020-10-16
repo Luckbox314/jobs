@@ -6,6 +6,18 @@ Bienvenidos al repositorio de trabajos de [@CSPUC](https://github.com/cspuc). El
 
 [Archivo Septiembre](septiembre20) • [Contribuir](https://github.com/cspuc/jobs#contribuciones)
 
+# 🌺 Octubre 2020
+
+## 🎓 Prácticas
+
+| Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
+|-|-|-|-|-|-|
+| [Buda](https://www.buda.com/chile) | Práctica Profesional | `Rails` `finance` | | 16/10 | [Contactar](mailto:a@buda.com) |
+
+## 💼 ofertas
+| Empresa  |  Rol |  Tags | Ubicacion | Apertura | Link |
+|-|-|-|-|-|-|
+| [Buda](https://www.buda.com/chile) | Desarrollador(a) Full Stack | `Rails` `finance` | | 16/10 | [Postular](https://www.buda.com/trabaja-en-buda/desarrollador-full-stack/) |
 
 # 🌞 Septiembre 2020 
 
